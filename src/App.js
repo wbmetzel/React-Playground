@@ -6,7 +6,11 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Sidebar />
+      <div class="grid-container">
+        <Sidebar class="grid-sidebar" />
+        <div class="header"></div>
+        <div class="content"></div>
+      </div>
     </div>
   );
 }
