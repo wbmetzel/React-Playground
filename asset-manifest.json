@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/React-Playground/static/css/main.1378b7b8.chunk.css",
-    "main.js": "/React-Playground/static/js/main.082265af.chunk.js",
-    "main.js.map": "/React-Playground/static/js/main.082265af.chunk.js.map",
+    "main.css": "/React-Playground/static/css/main.319c8bd9.chunk.css",
+    "main.js": "/React-Playground/static/js/main.d982cbde.chunk.js",
+    "main.js.map": "/React-Playground/static/js/main.d982cbde.chunk.js.map",
     "runtime-main.js": "/React-Playground/static/js/runtime-main.ada1e593.js",
     "runtime-main.js.map": "/React-Playground/static/js/runtime-main.ada1e593.js.map",
     "static/js/2.0c679dd9.chunk.js": "/React-Playground/static/js/2.0c679dd9.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.739bf5e1.chunk.js": "/React-Playground/static/js/3.739bf5e1.chunk.js",
     "static/js/3.739bf5e1.chunk.js.map": "/React-Playground/static/js/3.739bf5e1.chunk.js.map",
     "index.html": "/React-Playground/index.html",
-    "static/css/main.1378b7b8.chunk.css.map": "/React-Playground/static/css/main.1378b7b8.chunk.css.map",
+    "static/css/main.319c8bd9.chunk.css.map": "/React-Playground/static/css/main.319c8bd9.chunk.css.map",
     "static/js/2.0c679dd9.chunk.js.LICENSE.txt": "/React-Playground/static/js/2.0c679dd9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ada1e593.js",
     "static/js/2.0c679dd9.chunk.js",
-    "static/css/main.1378b7b8.chunk.css",
-    "static/js/main.082265af.chunk.js"
+    "static/css/main.319c8bd9.chunk.css",
+    "static/js/main.d982cbde.chunk.js"
   ]
 }
