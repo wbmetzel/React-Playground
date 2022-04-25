@@ -15,6 +15,6 @@ function App() {
   );
 }
 
-// nothing important here
+// delete this pointless comment
 
 export default App;
